@@ -1,6 +1,9 @@
 ## Hi~!~!~ 👋
 
-[<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{jJiwan}"/>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jJiwan"
+  width="600"
+  height="300"
+/>
 </a>
-](https://github.com/devxb/gitanimals)
